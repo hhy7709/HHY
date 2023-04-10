@@ -4,7 +4,7 @@ export default function FirstPage() {
         <div>
             <h2>Student Id: 2023046326</h2> 
             <h2>Name: Hong Hyeon Yook(홍현욱)</h2>
-            <h2>Hello World!</h2> 
+            <h2>My hobby is bowling!!!!!!!</h2> 
             <Link href="/">Back to home</Link> 
         </div>
     )
